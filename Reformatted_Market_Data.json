@@ -1,0 +1,25 @@
+{
+    "data3": {
+        "item1": {
+            "Name": "Bitcoin Liquidations",
+            "Category": "Bitcoin, Market",
+            "Key insight": "Total Bitcoin liquidations reached $200M across exchanges.",
+            "Last Updated": "September 30, 2024",
+            "Data source": "Coinglass"
+        },
+        "item2": {
+            "Name": "Bitcoin Dominance",
+            "Category": "Bitcoin, Metrics",
+            "Key insight": "BTC dominance stands at 43.5%, showing resilience amid corrections.",
+            "Last Updated": "September 27, 2024",
+            "Data source": "TradingView"
+        },
+        "item3": {
+            "Name": "Altcoin Rally",
+            "Category": "Altcoin, Rally",
+            "Key insight": "ETH open interest increased by 5% after positive market signals.",
+            "Last Updated": "September 25, 2024",
+            "Data source": "Coinglass"
+        }
+    }
+}

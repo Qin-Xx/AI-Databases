@@ -1,0 +1,25 @@
+{
+    "news": {
+        "news1": {
+            "Headline": "Base surpasses $2 billion in total value locked.",
+            "News": "Base surpasses $2 billion in total value locked, a 370% increase YTD\n Base is now the second-largest optimistic rollup after Arbitrum.",
+            "Tags": "Cryptocurrency",
+            "Sources ": "https://x.com/Cointelegraph/status/1839582888821506512?s=19\n\n",
+            "Date": "September 27, 2024 16:28 (GMT+8)"
+        },
+        "news2": {
+            "Headline": "Solana DeFi activity sees 50% growth over the last quarter.",
+            "News": "Solana's decentralized finance (DeFi) ecosystem experienced a 50% increase in activity, with more users engaging in DeFi applications and higher TVL recorded on the blockchain.",
+            "Tags": "Cryptocurrency, defi, solana",
+            "Sources ": "https://x.com/solanalabs/status/4567890123",
+            "Date": "September 29, 2024 13:15 (GMT+8)"
+        },
+        "news3": {
+            "Headline": "Fed keeps interest rates steady amid economic uncertainty.",
+            "News": "The Federal Reserve announced it would keep interest rates unchanged in its latest meeting, citing concerns over slowing economic growth and inflationary risks.",
+            "Tags": "Macroeconomics, federal reserve, interest rates",
+            "Sources ": "https://x.com/fednews/status/3456789012",
+            "Date": "September 27, 2024 17:30 (GMT+8)"
+        }
+    }
+}

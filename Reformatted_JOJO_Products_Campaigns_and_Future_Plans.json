@@ -1,0 +1,88 @@
+{
+    "data2": {
+        "item1": {
+            "Name": "Perpetual Trading Contract",
+            "Tags": "Product",
+            "Description": null,
+            "Date": "September 30, 2024",
+            "Text": null
+        },
+        "item2": {
+            "Name": "1000x Trading",
+            "Tags": "Product",
+            "Description": "A perpetual contract with a 1000X leverage is a type of financial derivative that allows investors to invest with a leverage ratio of 1000 times. This implies that investors only need to provide 0.1% of the investment amount as a margin to make a trade equivalent to one thousand times the investment amount.\n",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item3": {
+            "Name": "Grid Bot",
+            "Tags": "Product",
+            "Description": "A Grid Bot is a program that can automate the buying and selling of perpetual futures contracts for users. It is designed to place buy and sell orders within a preset price range, either automatically using AI strategy or manually configured.\n",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item4": {
+            "Name": "Flexible Earn",
+            "Tags": "Product",
+            "Description": "JOJO has developed an excellent arbitrage scheme by utilizing the funding rate mechanism in perpetual contract trading.\n\nAt JOJO, we support the arbitrage of stablecoins such as USDC. Users will deposit stablecoins with a minimum deposit amount of 5 USDC and a maximum limit of 200,000 USDC. All users share the same funding pool and contract position. ",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item5": {
+            "Name": "Multi-collateral System",
+            "Tags": "Product",
+            "Description": "JOJO uses USDC as the settlement currency, but you can also use other assets as collateral. Specifically, this is a credit issuance system similar to DAI, where you can borrow out JUSD by over-collateralizing assets such as ETH. And JUSD is considered to have equal value to USDC within JOJO's perpetual contract trading system.\n\nAlthough you trade using JUSD, profits and losses are still settled in USDC. This means that if you make money, you can withdraw it in USDC. If you lose money, your JUSD will be locked until you repay the debt with USDC.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item6": {
+            "Name": "Sub-account",
+            "Tags": "Product",
+            "Description": "Users on JOJO can create multiple wallets to achieve sub-account functionality, but managing private keys for different accounts can be cumbersome. To address this issue, we have designed a special contract to act as a trading account, where the user's wallet address is the contract's owner. This design prevents users from changing their wallet address and provides an easy way for other protocols to build on JOJO.\n\nSubaccounts allow users to separate their positions into different groups, such as by strategy or risk level. This can help users to better track the performance of their positions and make more informed investment decisions. Additionally, sub accounts can be useful for users who want to allow someone else to manage a specific portion of their portfolio.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item7": {
+            "Name": "Season 1",
+            "Tags": "Campaign",
+            "Description": "JOJO Exchange has introduced an exciting points system that not only rewards individual efforts but also amplifies the benefits when you collaborate with others. By understanding how to earn JOJO points and leveraging team dynamics, you can maximize your rewards.\n\nJOJO Token Distribution and Points System\nJOJO tokens are distributed proportionally each day based on the JOJO points you earn. These tokens can be claimed at the end of Season 1. Here\u2019s how you can accumulate JOJO points:\n\n1. \ud83d\udcb5 Adding Liquidity:\n    \u25e6 Add liquidity to the JOJO-ETH pool and stake the JOJO-ETH LP tokens.\n    \u25e6 Adding the equivalent of 1 USDC in JOJO-ETH LP to the pool earns 1 JOJO point per day.\n    \u25e6 Additionally, you can earn AERO rewards from Aerodrome by staking the LP tokens.\n2. \ud83c\udfe6 Deposit and Lock Margin:\n    \u25e6 Deposit and lock an average margin of 2 USDC in your perpetual account, 1000x account, or bot account to earn 1 point per day.\n3. \ud83d\udcb9 Trading:\n    \u25e6 Trade 10 USDC to earn 1 point.\n4. \ud83e\udd1d\ud83c\udffb Inviting Friends:\n    \u25e6 Invite a friend and earn up to 10% of the invitee's points.\n\n\n1. \ud83d\udcaa\ud83c\udffb Join or Create a Team:\n    \u25e6 The airdrop for all members of the top 10 teams will be amplified:\n        \u25aa Top 3 teams receive a 1.3x multiplier.\n        \u25aa Teams ranked 4-10 receive a 1.2x multiplier.\n    \u25e6 The team leader of the top 3 teams will receive 20% of the team points plus an additional 1.3x multiplier for their own points.\n    \u25e6 The team leader of the 4-10 teams will receive 10% of the team points plus an additional 1.2x multiplier for their own points.\n    \u25e6 Inviter can receive up to 10% of the invitee's points.\n\n2. \ud83c\udd99 Upgrade Your VIP Level:\n    \u25e6 Trade, deposit, or add liquidity to upgrade your VIP level.\n    \u25e6 The airdrop will be amplified up to 1.7x based on your VIP level.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item8": {
+            "Name": "Team System",
+            "Tags": "Campaign",
+            "Description": " Join or Create a Team:\n\u2022 The airdrop for all members of the top 10 teams will be amplified:\n    \u25e6 Top 3 teams receive a 1.3x multiplier.\n    \u25e6 Teams ranked 4-10 receive a 1.2x multiplier.\n\u2022 The team leader of the top 3 teams will receive 20% of the team points plus an additional 1.3x multiplier for their own points.\n\u2022 The team leader of the 4-10 teams will receive 10% of the team points plus an additional 1.2x multiplier for their own points.\n\u2022 Inviter can receive up to 10% of the invitee's points.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item9": {
+            "Name": "7 days check-in",
+            "Tags": "Campaign",
+            "Description": "7-day check-in activity shares the prize pool based on the number of chips traders collect. Each trader can earn up to 430 chips per week through the following methods:\n\n1.\u00a0Trade Perpetual Contracts: Trade 2000 USDC or more to earn 10 chips.\n2.\u00a0Trade 1000x Contracts: Trade 20,000 USDC or more to earn 10 chips.\n3.\u00a0Get a Perpetual daily PnL of 10 USDC to earn 10 chips.\n4.\u00a0Get a 1000X daily PnL of 10 USDC to earn 10 chips.\n5.\u00a0Check-In Streak: Check in for 3,5,7 consecutive days to earn an additional 30,50,70 chips.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item10": {
+            "Name": "Referral Program",
+            "Tags": "Campaign",
+            "Description": "At JOJO, we aim to provide the best possible perpetual trading experience. Our community plays a significant role in achieving this goal. We are introducing the JOJO Referral Program to reward those who help expand the JOJO community and share our product! This referral program allows all JOJOers to spread the word about our platform and earn rewards.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item11": {
+            "Name": "Lucky Draw",
+            "Tags": "Campaign",
+            "Description": "JOJO has introduced a lucky draw game. Participating in 1000X bet trading grants users lottery entries. Each user gets one lottery entry per 10U liquidation in 1000X leverage trading. \n\nThe JOJO luckydraw starts every Monday at 08:00 GMT and ends the following Monday at 00:00 GMT, lasting a total of 6 days and 16 hours. The current luckydraw is only open to users who were liquidated from last Monday at 00:00 GMT to this Monday at 00:00 GMT.",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        },
+        "item12": {
+            "Name": "Roadmap",
+            "Tags": "Future Plans",
+            "Description": "Future developments in The world Era (Q3, 2024 - long term)\n\u2022 Isolated mode\n\u2022 AMM liquidity tools\n\u2022 Copy trading\n\u2022 Strategy orders\n\u2022 Price following orders\n\u2022 Just in time liquidity\n\u2022 Managed accounts",
+            "Date": "September 30, 2024",
+            "Text": "Gitbook"
+        }
+    }
+}
